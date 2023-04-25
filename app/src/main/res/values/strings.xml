@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">AssistantPro</string>
+    <string name="action_settings">Settings</string>
+
+<string-array name="task_types">
+<item>Explorer</item>
+<item>Flexible</item>
+<item>Strict</item>
+</string-array>
+
+<string name="floating_action_button">Floating action button</string>
+<string name="weather_icon">Weather Icon</string>
+<string name="todo_list">ToDo List</string>
+<string name="lorem_ipsum">Monitors daily activity lorem ipsum dor sit amet lorem ipsum repeat</string>
+<string name="todo_icon">Todo icon</string>
+<string name="timer">Timer</string>
+<string name="timer_icon">Timer icon</string>
+<string name="quote_of_the_day">Quote of the day</string>
+<string name="set_timer">Set timer</string>
+<string name="add_task">Add Task</string>
+<string name="task_title">Title</string>
+<string name="task_description">Description</string>
+<string name="task_type">Task type:</string>
+<string name="date">Date</string>
+<string name="time">Time</string>
+<string name="add">Add</string>
+<string name="cancel">CANCEL</string>
+<string name="email">Email</string>
+<string name="password">Password</string>
+<string name="sign_in">Sign in</string>
+<string name="create_account">Create Account</string>
+<string name="powered_by">Powered by</string>
+<string name="sign_out">Sign out</string>
+<string name="due">Due:</string>
+<string name="duration">Duration</string>
+<string name="set_date_and_time_icon">Set date and time icon</string>
+<string name="pause_or_play_button">Pause or play button</string>
+<string name="app_logo">App logo</string>
+<string name="alan_logo">Alan logo</string>
+<string name="pause_button">Pause button</string>
+<string name="stop_button">Stop button</string>
+<string name="timer_initial">00:00:00</string>
+<string name="take_a_short_break">Take a short break</string>
+<string name="start">Start</string>
+<string name="separator">Separator</string>
+<string name="take_a_long_break">Take a long break</string>
+<string name="stop">Stop</string>
+<string name="resume_work">Resume Work</string>
+<string name="good_morning">Good morning</string>
+<string name="sun_emote"> ☀️</string>
+<string name="default_greeting">Good morning ☀️</string>
+<string name="profile_photo">Profile photo</string>
+<string name="name">Name</string>
+<string name="re_enter_password">Re-enter password</string>
+<string name="sign_up">Sign up</string>
+<string name="city">City</string>
+<string name="empty_list">List is empty\nTry adding some tasks</string>
+<string name="todo_description">Store and monitor your daily tasks into three categories Explorer, Flexible and Strict based upon your comfort and priorities</string>
+<string name="timer_description">Pomodoro timer break work into intervals, traditionally 25 minutes in length, separated by short breaks and long breaks</string>
+
+    </resources>
